@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+.main-container{
+   width: 300px;
+   padding: 60px;
+   background-color: #e2e0e0;
+   box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;;
+   margin: auto;
+   text-align: center;
+}
+
+.main-container img{
+    width: 270px;
+    justify-content: center;
+    margin: auto;
+}
+
+.button{
+    padding: 20px;
+    background-color: rgb(248, 69, 69);
+    color: #ffff;
+    border-radius: 15px;
+    width: 150px;
+    
+}
